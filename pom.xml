@@ -13,5 +13,6 @@
 
     <modules>
         <module>spring-boot-test</module>
+        <module>spring-boot-jpa</module>
     </modules>
 </project>
