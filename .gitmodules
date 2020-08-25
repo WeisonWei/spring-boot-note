@@ -28,3 +28,6 @@
 [submodule "spring-boot-drools"]
 	path = spring-boot-drools
 	url = https://github.com/WeisonWei/spring-boot-drools.git
+[submodule "spring-boot-mongo"]
+	path = spring-boot-mongo
+	url = https://github.com/WeisonWei/spring-boot-mongo.git
