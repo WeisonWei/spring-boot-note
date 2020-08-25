@@ -37,3 +37,6 @@
 [submodule "spring-boot-rest-docs"]
 	path = spring-boot-rest-docs
 	url = https://github.com/WeisonWei/spring-boot-rest-docs.git
+[submodule "spring-boot-cache"]
+	path = spring-boot-cache
+	url = https://github.com/WeisonWei/spring-boot-cache.git
