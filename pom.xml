@@ -21,5 +21,6 @@
         <module>spring-boot-elasticsearch</module>
         <module>spring-boot-webflux</module>
         <module>spring-boot-docker</module>
+        <module>spring-boot-drools</module>
     </modules>
 </project>

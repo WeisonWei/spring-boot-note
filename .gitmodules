@@ -25,3 +25,6 @@
 [submodule "spring-boot-docker"]
 	path = spring-boot-docker
 	url = https://github.com/WeisonWei/spring-boot-docker.git
+[submodule "spring-boot-drools"]
+	path = spring-boot-drools
+	url = https://github.com/WeisonWei/spring-boot-drools.git
