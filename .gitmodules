@@ -7,3 +7,6 @@
 [submodule "spring-boot-redisson"]
 	path = spring-boot-redisson
 	url = https://github.com/WeisonWei/spring-boot-redisson.git
+[submodule "spring-boot-mybatis"]
+	path = spring-boot-mybatis
+	url = https://github.com/WeisonWei/spring-boot-mybatis.git
