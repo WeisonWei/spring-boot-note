@@ -19,3 +19,6 @@
 [submodule "spring-boot-elasticsearch"]
 	path = spring-boot-elasticsearch
 	url = https://github.com/WeisonWei/spring-boot-elasticsearch.git
+[submodule "spring-boot-webflux"]
+	path = spring-boot-webflux
+	url = https://github.com/WeisonWei/spring-boot-webflux.git

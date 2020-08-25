@@ -19,5 +19,6 @@
         <module>spring-boot-mybatis-plus</module>
         <module>spring-boot-redis</module>
         <module>spring-boot-elasticsearch</module>
+        <module>spring-boot-webflux</module>
     </modules>
 </project>
