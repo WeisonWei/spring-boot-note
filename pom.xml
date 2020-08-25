@@ -15,5 +15,7 @@
         <module>spring-boot-test</module>
         <module>spring-boot-jpa</module>
         <module>spring-boot-redisson</module>
+        <module>spring-boot-mybatis</module>
+        <module>spring-boot-mybatis-plus</module>
     </modules>
 </project>
