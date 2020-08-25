@@ -4,3 +4,6 @@
 [submodule "spring-boot-jpa"]
 	path = spring-boot-jpa
 	url = https://github.com/WeisonWei/spring-boot-jpa.git
+[submodule "spring-boot-redisson"]
+	path = spring-boot-redisson
+	url = https://github.com/WeisonWei/spring-boot-redisson.git
