@@ -13,3 +13,6 @@
 [submodule "spring-boot-mybatis-plus"]
 	path = spring-boot-mybatis-plus
 	url = https://github.com/WeisonWei/spring-boot-mybatis-plus.git
+[submodule "spring-boot-redis"]
+	path = spring-boot-redis
+	url = https://github.com/WeisonWei/spring-boot-redis.git

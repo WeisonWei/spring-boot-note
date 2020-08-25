@@ -17,5 +17,6 @@
         <module>spring-boot-redisson</module>
         <module>spring-boot-mybatis</module>
         <module>spring-boot-mybatis-plus</module>
+        <module>spring-boot-redis</module>
     </modules>
 </project>
