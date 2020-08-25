@@ -31,3 +31,6 @@
 [submodule "spring-boot-mongo"]
 	path = spring-boot-mongo
 	url = https://github.com/WeisonWei/spring-boot-mongo.git
+[submodule "spring-boot-starter"]
+	path = spring-boot-starter
+	url = https://github.com/WeisonWei/spring-boot-starter.git

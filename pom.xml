@@ -23,5 +23,6 @@
         <module>spring-boot-docker</module>
         <module>spring-boot-drools</module>
         <module>spring-boot-mongo</module>
+        <module>spring-boot-starter</module>
     </modules>
 </project>
