@@ -24,5 +24,6 @@
         <module>spring-boot-drools</module>
         <module>spring-boot-mongo</module>
         <module>spring-boot-starter</module>
+        <module>spring-boot-rest-docs</module>
     </modules>
 </project>

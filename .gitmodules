@@ -34,3 +34,6 @@
 [submodule "spring-boot-starter"]
 	path = spring-boot-starter
 	url = https://github.com/WeisonWei/spring-boot-starter.git
+[submodule "spring-boot-rest-docs"]
+	path = spring-boot-rest-docs
+	url = https://github.com/WeisonWei/spring-boot-rest-docs.git
