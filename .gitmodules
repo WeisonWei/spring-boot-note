@@ -22,3 +22,6 @@
 [submodule "spring-boot-webflux"]
 	path = spring-boot-webflux
 	url = https://github.com/WeisonWei/spring-boot-webflux.git
+[submodule "spring-boot-docker"]
+	path = spring-boot-docker
+	url = https://github.com/WeisonWei/spring-boot-docker.git

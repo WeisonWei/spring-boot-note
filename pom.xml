@@ -20,5 +20,6 @@
         <module>spring-boot-redis</module>
         <module>spring-boot-elasticsearch</module>
         <module>spring-boot-webflux</module>
+        <module>spring-boot-docker</module>
     </modules>
 </project>
