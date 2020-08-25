@@ -16,3 +16,6 @@
 [submodule "spring-boot-redis"]
 	path = spring-boot-redis
 	url = https://github.com/WeisonWei/spring-boot-redis.git
+[submodule "spring-boot-elasticsearch"]
+	path = spring-boot-elasticsearch
+	url = https://github.com/WeisonWei/spring-boot-elasticsearch.git
