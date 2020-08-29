@@ -8,8 +8,8 @@
     <groupId>com.weison</groupId>
     <artifactId>spring-boot-note</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <url>https://github.com/WeisonWei/spring-boot-note.git</url>
     <packaging>pom</packaging>
+    <url>https://github.com/WeisonWei/spring-boot-note.git</url>
 
     <modules>
         <module>spring-boot-test</module>
