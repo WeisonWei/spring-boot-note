@@ -46,3 +46,6 @@
 [submodule "spring-boot-canal"]
 	path = spring-boot-canal
 	url = https://github.com/WeisonWei/spring-boot-canal.git
+[submodule "spring-boot-graphql"]
+	path = spring-boot-graphql
+	url = https://github.com/WeisonWei/spring-boot-graphql.git
