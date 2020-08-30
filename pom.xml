@@ -39,5 +39,6 @@
         <module>spring-boot-kafka</module>
         <module>spring-boot-rocketmq</module>
         <module>spring-boot-sse</module>
+        <module>spring-boot-config</module>
     </modules>
 </project>

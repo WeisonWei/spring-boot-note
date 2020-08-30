@@ -61,3 +61,6 @@
 [submodule "spring-boot-sse"]
 	path = spring-boot-sse
 	url = https://github.com/WeisonWei/spring-boot-sse.git
+[submodule "spring-boot-config"]
+	path = spring-boot-config
+	url = https://github.com/WeisonWei/spring-boot-config.git
