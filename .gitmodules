@@ -49,3 +49,6 @@
 [submodule "spring-boot-graphql"]
 	path = spring-boot-graphql
 	url = https://github.com/WeisonWei/spring-boot-graphql.git
+[submodule "spring-boot-rabbitmq"]
+	path = spring-boot-rabbitmq
+	url = https://github.com/WeisonWei/spring-boot-rabbitmq.git
