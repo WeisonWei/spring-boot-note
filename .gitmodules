@@ -58,3 +58,6 @@
 [submodule "spring-boot-rocketmq"]
 	path = spring-boot-rocketmq
 	url = https://github.com/WeisonWei/spring-boot-rocketmq.git
+[submodule "spring-boot-sse"]
+	path = spring-boot-sse
+	url = https://github.com/WeisonWei/spring-boot-sse.git
