@@ -52,3 +52,6 @@
 [submodule "spring-boot-rabbitmq"]
 	path = spring-boot-rabbitmq
 	url = https://github.com/WeisonWei/spring-boot-rabbitmq.git
+[submodule "spring-boot-kafka"]
+	path = spring-boot-kafka
+	url = https://github.com/WeisonWei/spring-boot-kafka.git
