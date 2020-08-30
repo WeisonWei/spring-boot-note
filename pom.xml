@@ -32,5 +32,6 @@
         <module>spring-boot-starter</module>
         <module>spring-boot-rest-docs</module>
         <module>spring-boot-cache</module>
+        <module>spring-boot-batch</module>
     </modules>
 </project>

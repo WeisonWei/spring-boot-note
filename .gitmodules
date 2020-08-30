@@ -40,3 +40,6 @@
 [submodule "spring-boot-cache"]
 	path = spring-boot-cache
 	url = https://github.com/WeisonWei/spring-boot-cache.git
+[submodule "spring-boot-batch"]
+	path = spring-boot-batch
+	url = https://github.com/WeisonWei/spring-boot-batch.git
