@@ -37,5 +37,6 @@
         <module>spring-boot-graphql</module>
         <module>spring-boot-rabbitmq</module>
         <module>spring-boot-kafka</module>
+        <module>spring-boot-rocketmq</module>
     </modules>
 </project>

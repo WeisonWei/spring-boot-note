@@ -55,3 +55,6 @@
 [submodule "spring-boot-kafka"]
 	path = spring-boot-kafka
 	url = https://github.com/WeisonWei/spring-boot-kafka.git
+[submodule "spring-boot-rocketmq"]
+	path = spring-boot-rocketmq
+	url = https://github.com/WeisonWei/spring-boot-rocketmq.git
