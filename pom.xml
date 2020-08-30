@@ -33,5 +33,6 @@
         <module>spring-boot-rest-docs</module>
         <module>spring-boot-cache</module>
         <module>spring-boot-batch</module>
+        <module>spring-boot-canal</module>
     </modules>
 </project>

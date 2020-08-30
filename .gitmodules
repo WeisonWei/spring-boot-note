@@ -43,3 +43,6 @@
 [submodule "spring-boot-batch"]
 	path = spring-boot-batch
 	url = https://github.com/WeisonWei/spring-boot-batch.git
+[submodule "spring-boot-canal"]
+	path = spring-boot-canal
+	url = https://github.com/WeisonWei/spring-boot-canal.git
